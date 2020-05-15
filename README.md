@@ -3,7 +3,7 @@ A simple Arduino library and program to calculate your student loan debt and out
 
 About
 This code was written in April 2016 and will definitely need some updates. 
-I wrote this a while ago for a project called Counter. It was a practice and a reflection of deciphering one’s multiple government student loans from multiple loan servicers and getting the aggregate amount owed - accurate to the second. The library was written with the intention to help simplify the calculation and be shared openly for any pour soul to use. For this particular iteration, the Arduino program and LCD was housed in an installation exhibited as a hope to break the taboo ice about student debt. Let's talk about that "student-loan-debt-crisis"! 
+I wrote this a while ago for a project called Counter. It was a practice and a reflection of deciphering one’s multiple government student loans from multiple loan servicers and getting the aggregate amount owed - accurate to the second. The library was written with the intention to help simplify the calculation and be shared openly for anyone to use. For this particular iteration, the Arduino program and LCD was housed in an installation exhibited as a hope to break the taboo ice about student debt. Let's talk about that "student-loan-debt-crisis"! 
 
 The Code
 Please forgive some of the code and calculations - I know it can be a lot more efficient! I'll make some needed updates as we go along. Figure I'd share this now rather then even later, hope this could be useful for anyone out there with an exorbitant student debt.
